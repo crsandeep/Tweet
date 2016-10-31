@@ -55,7 +55,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[sendvid](http://2.sendvid.com/ndo3jcz5.mp4)
+[sendvid](http://4.sendvid.com/gte7021x.mp4)
 
 ## Notes
 
